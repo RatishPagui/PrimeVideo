@@ -16,7 +16,7 @@
 }
 .navdiv1{
     background-color: aqua;
-    background-image: url(../primeimages/amazonlogo.jpg);
+    background-image: url(../PrimeVideo/primeimages/amazonlogo.jpg);
     height: 80px;
     width: 200px;
     margin-left: 40px;
@@ -28,7 +28,7 @@
     height: 35px;
     width: 35px;
     background-color: yellow;
-    background-image: url(../primeimages/globee.jpg);
+    background-image: url(../PrimeVideo/primeimages/globee.jpg);
     border-radius: 50% 50%;
 }
 .navdiv3{
@@ -61,7 +61,7 @@
     rgba(0,0,0,1),
     rgba(0,0,0,1),
     rgba(0,0,0,1)
-  ),url(../primeimages/primeimg.png),url(../primeimages/primeimg.png);
+  ),url(../PrimeVideo/primeimages/primeimg.png),url(../PrimeVideo/primeimages/primeimg.png);
 }
 .maincont{
     color: white;
@@ -158,23 +158,23 @@
     grid-gap: 5px;
 }
 .grid1{grid-area: a1;
-    background-image: url(../primeimages/im1.jpg);
+    background-image: url(../PrimeVideo/primeimages/im1.jpg);
 }
 .grid2{grid-area: a2;
-    background-image: url(../primeimages/im2.jpg);
+    background-image: url(../PrimeVideo/primeimages/im2.jpg);
 }
 .grid3{grid-area: a3;
-    background-image: url(../primeimages/im4.jpg);}
+    background-image: url(../PrimeVideo/primeimages/im4.jpg);}
 .grid4{grid-area: a4;
-    background-image: url(../primeimages/im3.jpg);}
+    background-image: url(../PrimeVideo/primeimages/im3.jpg);}
 .grid5{grid-area: a5;
-    background-image: url(../primeimages/im5.jpg);}
+    background-image: url(../PrimeVideo/primeimages/im5.jpg);}
 .grid6{grid-area: a6;
-    background-image: url(../primeimages/im6.jpg);}
+    background-image: url(../PrimeVideo/primeimages/im6.jpg);}
 .grid7{grid-area: a7;
-    background-image: url(../primeimages/im7.jpg);}
+    background-image: url(../PrimeVideo/primeimages/im7.jpg);}
 .grid8{grid-area: a8;
-    background-image: url(../primeimages/im8.jpg);}
+    background-image: url(../PrimeVideo/primeimages/im8.jpg);}
 .grid9{grid-area: a9;}
 
 .gr:hover{
@@ -224,7 +224,7 @@
 .div42{
     padding-top: 100px;
     width:55%;
-    background-image: url(../primeimages/aa1.jfif);
+    background-image: url(../PrimeVideo/primeimages/aa1.jfif);
 }
 .div5{
     height: 500px;
@@ -232,7 +232,7 @@
     display: flex;
 }
 .div51{
-    background-image: url(../primeimages/remot.png);
+    background-image: url(../PrimeVideo/primeimages/remot.png);
     width: 50%;
     /* background-color: blue; */
 }
@@ -317,7 +317,7 @@
 .div62{
     padding-top: 100px;
     width:53%;
-    background-image: url(../primeimages/amzim3.jfif);
+    background-image: url(../PrimeVideo/primeimages/amzim3.jfif);
 }
 
 .div7{
